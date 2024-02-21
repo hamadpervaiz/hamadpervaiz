@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hamad Pervaiz</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;UI+/+UX+Designer;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/hamadpervaiz"><img src="https://readme-typing-svg.herokuapp.com?lines=University+Of+Virginia+Undergraduate;UI+/+UX+Designer;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -91,4 +91,4 @@
   <br>
   
 <p align="right" > Created with 🧡 by <a href="https://github.com/hamad">Hamad Pervaiz</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=hamadpervaiz&label=Profile%20views&color=0e75b6&style=flat" alt="hamadpervaiz" /> </p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=hamadpervaiz&label=Profile%20views&color=4b69dd&style=flat" alt="hamadpervaiz" /> </p>
