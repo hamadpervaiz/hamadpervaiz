@@ -3,6 +3,9 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;UI+/+UX+Designer;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-choudharys/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lost_introvert) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/abhishek_choudhary.99/) [<img src = "https://img.shields.io/badge/blender art-%23FE6D03.svg?&style=for-the-badge&logo=blender&logoColor=white">](https://github.com/abhishek-choudharys/blender-projects/blob/main/README.md) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:abhishek931999@gmail.com) 
+![Visits Badge](https://badges.pufler.dev/visits/abhishek-choudharys/abhishek-choudharys?style=for-the-badge)
+
 <p align="center">
   <em>
     I'm <b>Hamad Pervaiz</b>, a full-stack <b>web developer</b> with expertise in <b>React, Node, Typescript and TailwindCSS.</b> Currently passionate about AI, helping businesses rocketspeed their AI product development needs with <b> AI Models Implementation</b> 
