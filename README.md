@@ -4,7 +4,7 @@
 </p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hamadpervaiz/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hamadpervaiz) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](http://instagram.com/hamadpervaiz) [<img src = "https://img.shields.io/badge/blender art-%23FE6D03.svg?&style=for-the-badge&logo=blender&logoColor=white">](https://github.com/hamadpervaiz) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:hamad@bearplex.com) 
-![Visits Badge](https://badges.pufler.dev/visits/abhishek-choudharys/abhishek-choudharys?style=for-the-badge)
+![Visits Badge](https://badges.pufler.dev/visits/hamadpervaiz)
 
 <p align="center">
   <em>
