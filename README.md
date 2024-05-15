@@ -12,7 +12,7 @@
   <b><i>"If you can't build an AI product, just wrap it around an open source LLM. Pretty much the same thing."</i></b>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+<h3>What I bring to the table 🧑</h3>
 
 - 🧞 I'm very passionate about Product Development.
 - 🔭 I'm a seasoned business analyst cum fractional CTO.
