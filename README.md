@@ -73,21 +73,7 @@
 
 ---
 
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/hamadpervaiz/">
-   <img align="left" alt=" Hamad Pervaiz | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:hamad@bearplex.com">
-    <img align="left" alt="Hamad Pervaiz | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://www.instagram.com/hamadpervaiz/">
-    <img align="left" alt="Hamad Pervaiz | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://github.com/hamadpervaiz">
-    <img align="left" alt="Hamad Pervaiz | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
+
   
 <p align="right" > Created with 🧡 by <a href="https://github.com/hamad">Hamad Pervaiz</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=hamadpervaiz&label=Profile%20views&color=4b69dd&style=flat" alt="hamadpervaiz" /> </p>
